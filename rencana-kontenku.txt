@@ -1,0 +1,6 @@
+RENCANA KONTENKU:
+- Javascript
+- PHP
+- VueJS
+- NodeJS
+- Database PDO
